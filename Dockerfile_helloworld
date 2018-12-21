@@ -1,0 +1,3 @@
+FROM ubuntu:latest
+RUN echo "hello world! This is ubuntu v1"
+CMD ["echo", "ubuntu v1 is running"]
